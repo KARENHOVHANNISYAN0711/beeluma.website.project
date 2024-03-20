@@ -1,0 +1,411 @@
+@media only screen and (max-width:1286px){
+    .header-logo{
+        width:80px;
+        height:35.550px;
+    }
+    .header-list>li>a{
+        font-size:14px;
+    }
+    .header-button{
+        width:185px;
+        height:50px;
+        font-size:12px;
+    }
+    .span{
+        font-size:25px;
+    }
+    .span-color{
+        font-size:25px;
+    }
+    .reserve-paragraf{
+        width:250px;
+        font-size:15px;
+    }
+    .img-wockup{
+        width:512px;
+    }
+    .product-img{
+        width:412px;
+    }
+    .div-img{
+        width:1000px;
+        min-height:500px;
+    }
+    .footer-h2-text{
+        font-size:10px;
+    }
+}
+
+@media only screen and (max-width:1266px){
+    .img-wockup{
+        width:312px;
+        height:308px;
+    }
+    .who-we-are{
+        margin:0 auto;
+    }
+    .header-h4text{
+        font-size:14px;
+    }
+}
+
+@media only screen and (max-width:1190px){
+    .footer-h2-text{
+        font-size:9.5px;
+    }
+}
+
+@media only screen and (max-width:1182px){
+    .img-wockup{
+        width:280px;
+        height:308px;
+    }
+}
+
+@media only screen and (max-width:1145px){
+    .img-wockup{
+        width:250px;
+        height:308px;
+    }
+}
+
+
+@media only screen and (max-width:1120px){
+    .header-logo{
+        width:70px;
+        height:25.550px;
+    }
+    .header-list>li>a{
+        font-size:12px;
+    }
+    .header-button{
+        width:175px;
+        height:40px;
+        font-size:11px;
+    }
+    .img-wockup{
+        width:230px;
+        height:308px;
+    }
+    .product-img{
+        width:312px;
+    }
+}
+
+@media only screen and (max-width:1090px){
+    .img-wockup{
+        width:200px;
+        height:308px;
+    }
+    .footer-h2-text{
+        font-size:8px;
+    }
+    .footer-buuton{
+        width:185px;
+        height:48px;
+    }
+}
+
+@media only screen and (max-width:1066px){
+    .img-wockup{
+        width:180px;
+        height:208px;
+    }
+    .reserve-paragraf{
+        width:340px;
+        font-size:13px;
+    }
+    .what-we-do-img{
+        width:777px;
+    }
+    .div-img{
+        width:800px;
+        min-height:400px;
+    }
+    .span-div{
+        font-size:34px;
+    }
+    .span-div-text{
+        font-size:34px;
+    }
+    .header-h5-text{
+        margin-left:150px;
+    }
+}
+
+@media only screen and (max-width:1045px){
+    .span{
+        font-size:18px;
+    }
+    .span-color{
+        font-size:18px;
+    }
+    .header-h4text{
+        font-size:11px;
+    }
+}
+
+@media only screen and (max-width:1035px){
+    .img-wockup{
+        width:140px;
+        height:208px;
+    }
+}
+
+@media only screen and (max-width:1020px){
+    .header-logo{
+        width:60px;
+        height:20.550px;
+    }
+    .header-list>li>a{
+        font-size:11px;
+    }
+    .header-button{
+        width:165px;
+        height:35px;
+        font-size:10px;
+    }
+    .product-img{
+        width:270px;
+    }
+}
+
+@media only screen and (max-width:985px){
+    .menu{
+        display:block;
+    }
+    .header-button{
+        display:none;
+    }
+    .header-list>li>a{
+        display:none;
+    }
+    .who-we-are{
+        flex-direction:column;
+    }
+    .reserve-paragraf{
+        width:400px;
+        text-align:center;
+        font-size:18px;
+    }
+    .img-wockup{
+        width:620px;
+        height:308px;
+        padding-left:120px;
+    }
+    .vector{
+        margin-left:120px;
+    }
+    .reserve-h6{
+        padding-left:150px;
+    }
+    .img-reserve{
+        width:628px;
+    }
+    .who-we-are{
+        padding-right:290px;
+    }
+    .what-we-do-img{
+        width:677px;
+    }
+    .h1-natural-text{
+        font-size:42px;
+    }
+    .h3-crestodina-text{
+        font-size:28px;
+    }
+    .h6-read-more{
+        font-size:14px;
+    }
+    .header-h6text{
+        font-size:14px;
+    }
+    .header-h5text{
+        width:400px;
+    }
+    .header-h4text{
+        width:500px;
+    }
+    .section-products{
+        flex-direction:column;
+    }
+    .product-img{
+        width:512px;
+    }
+    .products-div{
+        padding-top:50px;
+        padding-left:150px;
+    }
+    .product-vector{
+        margin-left:150px;
+    }
+    .h3-product-text{
+        padding-left:120px;
+    }
+    .products-div{
+        margin-right:130px;
+    }
+    .h6-read-more-text{
+        padding-left:150px;
+    }
+    .natural-product{
+        display:none;
+    }
+    .footer{
+        flex-wrap:wrap;
+        gap:70px;
+    }   
+    .Privacy-Policy{
+        width:312px;
+    }
+}
+
+@media only screen and (max-width:882px){
+    .h6-about-company{
+        text-align:center;
+        font-size:15px;
+    }
+    .Privacy-Policy{
+        width:270px;
+    }
+}
+
+@media only screen and (max-width:812px){
+    .h6-about-company{
+        text-align:center;
+        font-size:13px;
+    }
+    .h3-product-text{
+        font-size:25px;
+    }
+    .product-vector{
+        margin-right:80px;
+    }
+}
+
+@media only screen and (max-width:780px){
+    .h1-natural-text{
+        font-size:35px;
+    }
+    .img-reserve{
+        width:528px;
+    }
+    .footer-logo{
+        width:70px;
+    }
+}
+
+@media only screen and (max-width:768px){
+    .what-we-do-img{
+        width:577px;
+    }
+    .h3-crestodina-text{
+        font-size:20px;
+    }
+    .h6-read-more{
+        font-size:12px;
+    }
+}
+
+@media only screen and (max-width:670px){
+    .what-we-do-img{
+        width:477px;
+    }
+    .h1-natural-text{
+        font-size:32px;
+    }
+    .h3-crestodina-text{
+        font-size:15px;
+    }
+    .h6-read-more{
+        font-size:10px;
+        padding-right:180px;
+    }
+    .img-reserve{
+        width:428px;
+    }
+    .img-wockup{
+        width:412px;
+    }
+    .footer-logo{
+        display:none;
+    }
+}
+
+@media only screen and (max-width:625px){
+    .header-h4text{
+        width:300px;
+    }
+}
+
+@media only screen and (max-width:616px){
+    .header-h6text{
+        font-size:12px;
+    }
+}
+
+@media only screen and (max-width:611px){
+    .footer-contact{
+        width:200px;
+    }
+    .footer-h2-text{
+        font-size:12px;
+    }
+    .header-h6text{
+        width:120px;
+    }
+}
+
+@media only screen and (max-width:570px){
+    .what-we-do-img{
+        width:377px;
+    }
+    .h1-natural-text{
+        font-size:22px;
+    }
+    .img-reserve{
+        width:328px;
+    }
+    .h6-read-more{
+        display:none;
+    }
+    .footer-h3-text{
+        text-align:center;
+    }
+    .footer-h2-text{
+        text-align:center;
+    }
+    .footer-buuton{
+        margin-left:70px;
+    }
+    .product-img{
+        width:410px;
+    }
+    .h2-green-olives-text{
+        font-size:8px;
+    }
+    .header-h4text{
+        width:250px;
+    }
+}
+
+@media only screen and (max-width:525px){
+    .header-h4text{
+        width:230px;
+    }
+    .header-h5text{
+       width:340px;
+    }
+}
+
+@media only screen and (max-width:470px){
+    .what-we-do-img{
+        width:277px;
+    }
+    .h6-read-more{
+        padding-right:120px;
+    }
+    .product-img{
+        width:310px;
+    }
+}
